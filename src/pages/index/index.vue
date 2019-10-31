@@ -1,5 +1,5 @@
 <template>
-  <div>这是index页面</div>
+  <div>这是index页面,aaa </div>
 </template>
 
 <script>
