@@ -1,0 +1,6 @@
+{
+  "usingComponents":{},
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "小程序",
+  "navigationBarTextStyle": "white"
+}
